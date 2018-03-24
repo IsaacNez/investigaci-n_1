@@ -1,0 +1,17 @@
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\obj\Debug\xUnits.csprojResolveAssemblyReference.cache
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\obj\Debug\xUnits.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.abstractions.dll
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xUnits.dll
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xUnits.pdb
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.assert.dll
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.core.dll
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.execution.desktop.dll
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.assert.xml
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.core.xml
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\bin\Debug\xunit.execution.desktop.xml
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\obj\Debug\xUnits.csproj.CopyComplete
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\obj\Debug\xUnits.dll
+C:\Users\bryan\Desktop\IISEM 2018\espe\investigación1\xUnits\xUnits\obj\Debug\xUnits.pdb
